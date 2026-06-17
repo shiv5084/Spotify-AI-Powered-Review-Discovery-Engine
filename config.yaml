@@ -1,0 +1,46 @@
+# Configuration settings for Spotify Review Discovery Engine (PRDE)
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  pulse_note_file: "data/weekly_pulse_note.md"
+  dashboard_json_file: "data/dashboard_data.json"
+
+llm:
+  provider: "groq"
+  model_name: "llama-3.3-70b-versatile"
+  temperature: 0.1
+  max_tokens: 4096
+  # Groq free tier: ~30 RPM and ~14,400 TPM for llama-3.3-70b-versatile
+  rate_limit:
+    batch_size: 5
+    min_request_interval_seconds: 3.0
+    max_retries: 5
+    initial_backoff_seconds: 5
+    max_backoff_seconds: 120
+    tpm_budget: 20000
+
+ingestion:
+  weeks_lookback: 12
+  sources:
+    - "google_play"
+    - "app_store"
+    - "reddit"
+    - "spotify_community"
+    - "twitter"
+    - "product_reviews"
+
+# ── Phase 2 LLM Optimization (Strategy 4 + Strategy 5) ──────────────────────
+optimization:
+  enabled: true                    # false = original process_reviews() used (no optimization)
+  sampling:                        # Strategy 4: Stratified Sampling
+    sample_size: 500               # max reviews sent through LLM; rest are skipped
+    min_floor_sources:             # always take ALL available reviews from these sources
+      - "reddit"
+      - "product_reviews"
+      - "spotify_community"
+      - "twitter"
+  gate:                            # Strategy 5: Two-Stage Gate Funnel
+    enabled: true                  # false = skip gate, full classify entire sample
+    batch_size: 10                 # gate uses larger batches (short prompt = cheaper)
+    model: "llama-3.1-8b-instant"  # small fast model for yes/no gate (saves quota)

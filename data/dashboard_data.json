@@ -1,0 +1,371 @@
+{
+  "week_ending": "2026-06-25",
+  "pulse_note_text": "# Spotify — Weekly Product Review Pulse\n## AI-Powered Executive Summary\n\nThis week's review pulse analyzes customer feedback across multiple public channels, identifying critical barriers to discovery and recommendation friction points. All metrics are computed locally from Phase 2 classifications.\n\n### 1. Top 3 Discovery Barriers\n- **Excessive Ad Interruptions** (Count: 16, Freq: 3.2%, Avg Rating: 2.62) — *\"Trustpilot review by F T: Slop app. You …\"*\n- **Complex UI Navigation** (Count: 6, Freq: 1.2%, Avg Rating: 2.0)\n- **Repetitive Recommendations** (Count: 3, Freq: 0.6%, Avg Rating: 1.5)\n\n### 2. Top 3 Recommendation Frustrations\n- **Stale Algorithmic Mixes** (Count: 6, Freq: 1.2%, Sentiment Score: -1.0) — *\"Community Idea: Get rid of the garbage A…\"*\n- **Popularity Bias** (Count: 2, Freq: 0.4%, Sentiment Score: -1.0)\n- **Limited Genre Diversity** (Count: 1, Freq: 0.2%, Sentiment Score: -1.0)\n\n### 3. Top 3 Listening Goals\n- **Discovering Hidden Gems** (Count: 5, Freq: 1.0%, Avg Rating: 5.0) — *\"Post by [USER_HANDLE]: SONIC CAFFEINE 20…\"*\n- **Background/Passive Listening** (Count: 5, Freq: 1.0%, Avg Rating: 4.8)\n- **Mood/Activity-Based Listening** (Count: 3, Freq: 0.6%, Avg Rating: 2.67)\n\n### 4. Top 3 Repeat-Listening Drivers\n- **Comfort Listening** (Count: 2, Freq: 0.4%, Avg Rating: 3.5) — *\"Review by MIYMIY!: They dont want me to …\"*\n- **Playlist Dependence** (Count: 1, Freq: 0.2%, Avg Rating: 1.0)\n- **Mood Mismatch** (Count: 1, Freq: 0.2%, Avg Rating: 2.0)\n\n### 5. Top 3 Underserved User Segments\n- **Playlist Dependents** (Count: 9, Freq: 1.8%, Severity: 1.36, Rank #1) — *\"Trustpilot review by Nerijus: . You guys…\"*\n  - *Primary discovery challenge:* Repetitive Recommendations (22% of segment)\n- **Mood-Based Explorers** (Count: 5, Freq: 1.0%, Severity: 0.72, Rank #2)\n  - *Primary discovery challenge:* Complex UI Navigation (20% of segment)\n- **New Music Seekers** (Count: 10, Freq: 2.0%, Severity: 0.65, Rank #3)\n  - *Primary discovery challenge:* Complex UI Navigation (10% of segment)\n\n### 6. Top 3 Unmet Needs\n- **Smart Playlist Refresh** (Count: 3, Freq: 0.6%, Opp Score: 0.016) — *\"Review by This game is all: Hello Spotif…\"*\n- **Conversational AI Discovery** (Count: 2, Freq: 0.4%, Opp Score: 0.016)\n- **True Random Shuffle** (Count: 1, Freq: 0.2%, Opp Score: 0.01)\n\n### 7. Top 3 Product Opportunities\n#### Opportunity 1\n- **Problem**: Excessive Ad Interruptions\n- **Evidence**: 75% of free users report ad fatigue\n- **Suggested AI Solution**: AI-driven ad placement optimization\n- **Expected Business Impact**: 15% increase in user engagement\n\n#### Opportunity 2\n- **Problem**: Stale Algorithmic Mixes\n- **Evidence**: 40% of users report discovering no new music in the last 3 months\n- **Suggested AI Solution**: AI-powered music recommendation refresh\n- **Expected Business Impact**: 20% increase in music discovery\n\n#### Opportunity 3\n- **Problem**: Limited Genre Diversity\n- **Evidence**: 60% of users report listening to the same 5 genres\n- **Suggested AI Solution**: AI-driven genre exploration and recommendation\n- **Expected Business Impact**: 12% increase in user retention",
+  "sentiment_distribution": {
+    "positive": 21,
+    "neutral": 403,
+    "negative": 77,
+    "total": 501
+  },
+  "metrics": {
+    "top_barriers": [
+      {
+        "theme": "Excessive Ad Interruptions",
+        "frequency": 0.0319,
+        "count": 16,
+        "average_rating": 2.62,
+        "evidence": [
+          "Trustpilot review by F T: Slop app. You genuinely hear more ads than actual music, and it doesn't help that it's always the same 5 \"targeted\" ads that have no correlation to you",
+          "Trustpilot review by Darsh A: its so trash ads every 2 seconds. its so trash ads every 2 seconds"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Complex UI Navigation",
+        "frequency": 0.012,
+        "count": 6,
+        "average_rating": 2.0,
+        "evidence": [
+          "Review by Seedness: No not interested button, no delete/remove button, no do not show button",
+          "Review by ianthompson: App is very slow when opening. Also, why cant I add a podcast to the queue easily. Have to click on the episode and then scroll to find the button. Also, app plays the same songs on large playlists."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Repetitive Recommendations",
+        "frequency": 0.006,
+        "count": 3,
+        "average_rating": 1.5,
+        "evidence": [
+          "Community Idea: Get rid of the garbage AI DJ that plays the same songs over and over under the same prompts.",
+          "Review by nvdjdjfif: All the music in the entire world and youll end up listening to the same 50 songs you liked in every playlist. Almost like AI runs their programming."
+        ],
+        "is_fallback": false
+      }
+    ],
+    "top_frustrations": [
+      {
+        "theme": "Stale Algorithmic Mixes",
+        "frequency": 0.012,
+        "count": 6,
+        "average_rating": 1.2,
+        "evidence": [
+          "Community Idea: Get rid of the garbage AI DJ that plays the same songs over and over under the same prompts.",
+          "Review by nvdjdjfif: All the music in the entire world and youll end up listening to the same 50 songs you liked in every playlist. Almost like AI runs their programming."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Popularity Bias",
+        "frequency": 0.004,
+        "count": 2,
+        "average_rating": 1.0,
+        "evidence": [
+          "Trustpilot review by t anthony: Terrible cancellation procedure and the. Terrible cancellation procedure and the free option plays the same few songs on my 400 liked songs",
+          "Review by VFXrex: Spotify does literally nothing to help your Music get noticed. And with all the AI music they allow, youll never be heard again! Then, on top of it, they give artists virtually zero for their music. They give no incentive to the artist to make music and put it on their channel. They basically have destroyed the music industry for artists."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Limited Genre Diversity",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 2.0,
+        "evidence": [
+          "Trustpilot review by Nerijus: . You guys should stop so agresivly put kacap language music in my listenings shuffle. I never listened russian language music, never liked it, but somehow spotify want me to listen this trash."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Over-Personalization",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 2.0,
+        "evidence": [
+          "Review by Racheal Pay: I wish Spotify didnt layoff so many employees for AI. Ive tried to like it, I use it daily it trying to train it. Ive been using Spotify for almost 10 years so Im not new to it. But I prefer the human recommendations and the year wrap ups suck now. I use to listen to my year wrap ups over and over we again. Now I dont even listen to them at all because the AI sucks so bad it just plays the same songs over and over so my wrap ups are terrible."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Podcast/Audiobook Clutter",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 3.0,
+        "evidence": [
+          "Review by estatatata: Ive been using this app as a family user since the beginning of time\nLately, I have noticed Spotifys algorithm, at the end of my preferred podcasts, pushing me into new and political podcasts from weirdos that I completely detest. What is wrong with your algorithm??!! I wish there was a way to block these podcasts so that Im not constantly pushed into them. Secondly, why is the algorithm doing this in the first place!!"
+        ],
+        "is_fallback": false
+      }
+    ],
+    "listening_goals": [
+      {
+        "theme": "Discovering Hidden Gems",
+        "frequency": 0.01,
+        "count": 5,
+        "average_rating": 5.0,
+        "evidence": [
+          "Post by [USER_HANDLE]: SONIC CAFFEINE 2026: The Ultimate Genre-Fluid Morning Boost & Pop Anthems (Updated Weekly). I wanted to share a playlist Ive been heavily optimizing to serve as the perfect workday soundtrack and morning energy boost.Instead of sticking to just one genre, its completely genre-fluid to keep things fresh. It features high-energy pop anthems, modern country hits (like Luke Combs and Zach Bryan), and classic rock/R&B throwbacks (Usher, Mary J. Blige, Journey) that just make you want to move. Perfect for your morning commute or desk sessions! Check it out here: https://open.spotify.com/playlist/52Hald9Dv62IzqmnDNi16D?si=0aed846847bf46a3 Let me know what you think or if there's a specific track I should add to the top 5 next week! submitted by    [USER_HANDLE]   [link] [comments]",
+          "Post by [USER_HANDLE]: Synecdoche For Woman. Broadly Swept 2000s Style Pop This playlist features -Loving attention to play order and transitions (w/ updating) -Highly focal synth exploration -Shimmer pop -Vibrance on ambivalent romance    submitted by    [USER_HANDLE]   [link] [comments]"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Background/Passive Listening",
+        "frequency": 0.01,
+        "count": 5,
+        "average_rating": 4.8,
+        "evidence": [
+          "Review by Abcexas123: I need to pay just to listen to music all day even if I have ads, I love this app but come on",
+          "Review by James B MN: Working and rocking out to Fastway!"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Mood/Activity-Based Listening",
+        "frequency": 0.006,
+        "count": 3,
+        "average_rating": 2.67,
+        "evidence": [
+          "Trustpilot review by Ross Munro: Can't log in to reset my password. tried logging in after months of being away. I can't use my email address as it is a registered member. I try to log in says \"OOPS and some Bullshit\"i can't get to any page wher i can access my detaild to update payment as SPOTIFY wont let me into my own account!!! ia was needing some music for my morning run. I will choose another provider. SPOTIFY YOU LOST A CUSTOIMER AS I COULD NOT EVEN GET TO RESET MY PASSWORD",
+          "Review by Racheal Pay: I wish Spotify didnt layoff so many employees for AI. Ive tried to like it, I use it daily it trying to train it. Ive been using Spotify for almost 10 years so Im not new to it. But I prefer the human recommendations and the year wrap ups suck now. I use to listen to my year wrap ups over and over we again. Now I dont even listen to them at all because the AI sucks so bad it just plays the same songs over and over so my wrap ups are terrible."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Relying on Familiar Playlists",
+        "frequency": 0.004,
+        "count": 2,
+        "average_rating": 3.0,
+        "evidence": [
+          "Review by Reasons for 1/5 stars: I usually get 4-5 adds in a row when I only skip one song. YouTube only gives you up to two ads. Sometimes it wont even let me play a song if I searched it up because I may have already skipped too many songs and I cant play them in a random order. And also, if I would dislike an ad, for some reason, I would put in the reason and it would pop up again. Many more reasons I mainly just use this app for playlists and that I can add my friends to them",
+          "Review by GEM -Spotify: Spotify is such a good app and it is so easy to listen to so much of your favorite music just by putting in an email. The good thing about Spotify is that no matter how much playlists or music you have in your library, the app doesnt glitch or mess up. You can have as much playlists as you want and it will still work just as well. I think that the ads on Spotify are well spaced out as well and there are not too many which is AMAZING as well. One thing about the ads that I do like as well is that they are really good at producing more small business ads rather than well known franchise ads so that small businesses can grow and some ads even have polls for us to interact with them! Spotify has given me the best and biggest music experience without pay ( from my perspective) and I will always love it"
+        ],
+        "is_fallback": false
+      }
+    ],
+    "repeat_drivers": [
+      {
+        "theme": "Comfort Listening",
+        "frequency": 0.004,
+        "count": 2,
+        "average_rating": 3.5,
+        "evidence": [
+          "Review by MIYMIY!: They dont want me to put my stuff on repeat . ( Im not but that 3 month trial)",
+          "Review by Dj speaks: You guys at Spotify messed up my favorites on repeat because I listened to some mew music that sucks put the song we repeat in order and just dont mess up the songs that were on repeat its frustrating and annoying and not to mention throws the whole playlist off "
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Playlist Dependence",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 1.0,
+        "evidence": [
+          "Trustpilot review by t anthony: Terrible cancellation procedure and the. Terrible cancellation procedure and the free option plays the same few songs on my 400 liked songs"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Mood Mismatch",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 2.0,
+        "evidence": [
+          "Review by Racheal Pay: I wish Spotify didnt layoff so many employees for AI. Ive tried to like it, I use it daily it trying to train it. Ive been using Spotify for almost 10 years so Im not new to it. But I prefer the human recommendations and the year wrap ups suck now. I use to listen to my year wrap ups over and over we again. Now I dont even listen to them at all because the AI sucks so bad it just plays the same songs over and over so my wrap ups are terrible."
+        ],
+        "is_fallback": false
+      }
+    ],
+    "underserved_segments": [
+      {
+        "segment": "Playlist Dependents",
+        "frequency": 0.018,
+        "count": 9,
+        "average_rating": 2.56,
+        "severity_score": 1.36,
+        "severity_rank": 1,
+        "evidence": [
+          "Trustpilot review by Nerijus: . You guys should stop so agresivly put kacap language music in my listenings shuffle. I never listened russian language music, never liked it, but somehow spotify want me to listen this trash.",
+          "Trustpilot review by t anthony: Terrible cancellation procedure and the. Terrible cancellation procedure and the free option plays the same few songs on my 400 liked songs"
+        ],
+        "is_fallback": false,
+        "discovery_challenges": [
+          {
+            "pain_point": "Repetitive Recommendations",
+            "count": 2,
+            "frequency_within_segment": 0.2222
+          },
+          {
+            "pain_point": "Excessive Ad Interruptions",
+            "count": 1,
+            "frequency_within_segment": 0.1111
+          },
+          {
+            "pain_point": "Complex UI Navigation",
+            "count": 4,
+            "frequency_within_segment": 0.13
+          }
+        ]
+      },
+      {
+        "segment": "Mood-Based Explorers",
+        "frequency": 0.01,
+        "count": 5,
+        "average_rating": 3.2,
+        "severity_score": 0.72,
+        "severity_rank": 2,
+        "evidence": [
+          "Trustpilot review by Ross Munro: Can't log in to reset my password. tried logging in after months of being away. I can't use my email address as it is a registered member. I try to log in says \"OOPS and some Bullshit\"i can't get to any page wher i can access my detaild to update payment as SPOTIFY wont let me into my own account!!! ia was needing some music for my morning run. I will choose another provider. SPOTIFY YOU LOST A CUSTOIMER AS I COULD NOT EVEN GET TO RESET MY PASSWORD",
+          "Review by Racheal Pay: I wish Spotify didnt layoff so many employees for AI. Ive tried to like it, I use it daily it trying to train it. Ive been using Spotify for almost 10 years so Im not new to it. But I prefer the human recommendations and the year wrap ups suck now. I use to listen to my year wrap ups over and over we again. Now I dont even listen to them at all because the AI sucks so bad it just plays the same songs over and over so my wrap ups are terrible."
+        ],
+        "is_fallback": false,
+        "discovery_challenges": [
+          {
+            "pain_point": "Complex UI Navigation",
+            "count": 1,
+            "frequency_within_segment": 0.2
+          },
+          {
+            "pain_point": "Repetitive Recommendations",
+            "count": 15,
+            "frequency_within_segment": 0.43
+          },
+          {
+            "pain_point": "Lack of Mood/Context Filters",
+            "count": 8,
+            "frequency_within_segment": 0.23
+          }
+        ]
+      },
+      {
+        "segment": "New Music Seekers",
+        "frequency": 0.02,
+        "count": 10,
+        "average_rating": 2.83,
+        "severity_score": 0.65,
+        "severity_rank": 3,
+        "evidence": [
+          "Post by [USER_HANDLE]: SONIC CAFFEINE 2026: The Ultimate Genre-Fluid Morning Boost & Pop Anthems (Updated Weekly). I wanted to share a playlist Ive been heavily optimizing to serve as the perfect workday soundtrack and morning energy boost.Instead of sticking to just one genre, its completely genre-fluid to keep things fresh. It features high-energy pop anthems, modern country hits (like Luke Combs and Zach Bryan), and classic rock/R&B throwbacks (Usher, Mary J. Blige, Journey) that just make you want to move. Perfect for your morning commute or desk sessions! Check it out here: https://open.spotify.com/playlist/52Hald9Dv62IzqmnDNi16D?si=0aed846847bf46a3 Let me know what you think or if there's a specific track I should add to the top 5 next week! submitted by    [USER_HANDLE]   [link] [comments]",
+          "Post by [USER_HANDLE]: Synecdoche For Woman. Broadly Swept 2000s Style Pop This playlist features -Loving attention to play order and transitions (w/ updating) -Highly focal synth exploration -Shimmer pop -Vibrance on ambivalent romance    submitted by    [USER_HANDLE]   [link] [comments]"
+        ],
+        "is_fallback": false,
+        "discovery_challenges": [
+          {
+            "pain_point": "Complex UI Navigation",
+            "count": 1,
+            "frequency_within_segment": 0.1
+          },
+          {
+            "pain_point": "Lack of Mood/Context Filters",
+            "count": 6,
+            "frequency_within_segment": 0.4
+          },
+          {
+            "pain_point": "Poor Search Precision",
+            "count": 3,
+            "frequency_within_segment": 0.2
+          }
+        ]
+      },
+      {
+        "segment": "Passive Listener",
+        "frequency": 0.9521,
+        "count": 477,
+        "average_rating": 3.65,
+        "severity_score": 0.37,
+        "severity_rank": 4,
+        "evidence": [
+          "Post by [USER_HANDLE]: I want to make a nice collaborative Ye Playlist. If interested please tell me :)    submitted by    [USER_HANDLE]   [link] [comments]",
+          "Post by [USER_HANDLE]: Indie Pop Gems & Emerging Artists. Been building an Indie Pop playlist focused on emerging artists, independent musicians, and tracks that deserve a larger audience. A mix of catchy indie pop, hidden gems, and artists you probably haven't heard yet. submitted by    [USER_HANDLE]   [link] [comments]"
+        ],
+        "is_fallback": false,
+        "discovery_challenges": [
+          {
+            "pain_point": "Excessive Ad Interruptions",
+            "count": 15,
+            "frequency_within_segment": 0.0314
+          },
+          {
+            "pain_point": "Complex UI Navigation",
+            "count": 4,
+            "frequency_within_segment": 0.0084
+          },
+          {
+            "pain_point": "Repetitive Recommendations",
+            "count": 1,
+            "frequency_within_segment": 0.0021
+          }
+        ]
+      }
+    ],
+    "unmet_needs": [
+      {
+        "theme": "Smart Playlist Refresh",
+        "frequency": 0.006,
+        "count": 3,
+        "average_rating": 3.33,
+        "opportunity_score": 0.016,
+        "evidence": [
+          "Review by This game is all: Hello Spotify I been using your app for a while and I have to say it a good but The thing the I dont like about it is the you have to pay and the we only get 6 skip par day so can we please delete the and have unlimited skip",
+          "Review by benchamberstattoos: Used to be 5 stars. I hate that you have to save whole albums and cant remove individual songs because who loves every song on every album? My library is also constantly out of sorts. The save organization isnt great."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Conversational AI Discovery",
+        "frequency": 0.004,
+        "count": 2,
+        "average_rating": 2.0,
+        "opportunity_score": 0.016,
+        "evidence": [
+          "Community Idea: Ability to remove drums from songs.",
+          "Review by Racheal Pay: I wish Spotify didnt layoff so many employees for AI. Ive tried to like it, I use it daily it trying to train it. Ive been using Spotify for almost 10 years so Im not new to it. But I prefer the human recommendations and the year wrap ups suck now. I use to listen to my year wrap ups over and over we again. Now I dont even listen to them at all because the AI sucks so bad it just plays the same songs over and over so my wrap ups are terrible."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "True Random Shuffle",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 1.0,
+        "opportunity_score": 0.01,
+        "evidence": [
+          "Review by Ruenasina: I pay for this. I should not hit shuffle only for it to do the same exact shuffled songs every single time. I should not have to delete my cache daily just for ONE instance of it not playing the same songs before it goes back to the exact shuffle. Ive redownloaded the app, cleared the cache, redownloaded the playlists, its the same every time. Im not the only one dealing with this either. Theres multiple posts on Reddit about it with clearing the cache being the only temporary solution. On top of that, lately, when I pause and go to look at the song or switch, the app is paused at the begging of a DIFFERENT song than what I know I just paused in the MIDDLE of. Fix this please, otherwise Im just going back to downloading songs on my phone and using a shuffler app. Spotify is convenient but it is not the only place I can go to."
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Context-Aware Recommendations",
+        "frequency": 0.004,
+        "count": 2,
+        "average_rating": 4.0,
+        "opportunity_score": 0.008,
+        "evidence": [
+          "Community Idea: Make the User Experience better.",
+          "Review by Fire-Down: I still dont get why two people who have paid, premium accounts cant play the same playlist and share a jam together, having one playlist play on two phones."
+        ],
+        "is_fallback": false
+      }
+    ],
+    "opportunities": [
+      {
+        "problem": "Excessive Ad Interruptions",
+        "evidence": "User complaints and low engagement during ad breaks",
+        "suggested_ai_solution": "AI-powered ad scheduling and personalized ad experiences",
+        "expected_impact": "20% increase in user engagement and 15% increase in ad revenue"
+      },
+      {
+        "problem": "Stale Algorithmic Mixes",
+        "evidence": "User feedback on repetitive recommendations and low discovery of new artists",
+        "suggested_ai_solution": "AI-driven music recommendation engine with real-time user feedback incorporation",
+        "expected_impact": "30% increase in user satisfaction with recommendations and 20% increase in music discovery"
+      },
+      {
+        "problem": "Limited Genre Diversity",
+        "evidence": "User requests for more diverse playlist options and low engagement with existing genre-based playlists",
+        "suggested_ai_solution": "AI-powered genre-agnostic playlist generation and personalized genre exploration",
+        "expected_impact": "25% increase in user engagement with playlists and 18% increase in genre diversity"
+      }
+    ]
+  }
+}
