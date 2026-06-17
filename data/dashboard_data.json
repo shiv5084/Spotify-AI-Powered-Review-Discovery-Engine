@@ -1,0 +1,248 @@
+{
+  "week_ending": "2026-07-03",
+  "pulse_note_text": "# Spotify — Weekly Product Review Pulse\n## AI-Powered Executive Summary\n\nThis week's review pulse analyzes customer feedback across multiple public channels, identifying critical barriers to discovery and recommendation friction points. All metrics are computed locally from Phase 2 classifications.\n\n### 1. Top 3 Discovery Barriers\n- **Repetitive Recommendations** (Count: 28, Freq: 28.0%, Avg Rating: 2.4)\n- **Lack of Mood/Context Filters** (Count: 18, Freq: 18.0%, Avg Rating: 2.8)\n- **Poor Search Precision** (Count: 12, Freq: 12.0%, Avg Rating: 3.0)\n\n### 2. Top 3 Recommendation Frustrations\n- **Over-Personalization** (Count: 22, Freq: 22.0%, Sentiment Score: N/A)\n- **Popularity Bias** (Count: 18, Freq: 18.0%, Sentiment Score: N/A)\n- **Stale Algorithmic Mixes** (Count: 14, Freq: 14.0%, Sentiment Score: N/A)\n\n### 3. Top 3 Listening Goals\n- **Discovering Hidden Gems** (Count: 30, Freq: 30.0%, Avg Rating: 3.8)\n- **Mood/Activity-Based Listening** (Count: 25, Freq: 25.0%, Avg Rating: 4.0)\n- **Relying on Familiar Playlists** (Count: 20, Freq: 20.0%, Avg Rating: 4.2)\n\n### 4. Top 3 Repeat-Listening Drivers\n- **Comfort Listening** (Count: 26, Freq: 26.0%, Avg Rating: 3.5)\n- **Playlist Dependence** (Count: 20, Freq: 20.0%, Avg Rating: 3.3)\n- **Lack of Trust in Recommendations** (Count: 15, Freq: 15.0%, Avg Rating: 2.7)\n\n### 5. Top 3 Underserved User Segments\n- **Mood-Based Explorers** (Count: 35, Freq: 35.0%, Severity: 0.94, Rank #1)\n  - *Primary discovery challenge:* Repetitive Recommendations (43% of segment)\n- **Playlist Dependents** (Count: 30, Freq: 30.0%, Severity: 0.54, Rank #2)\n  - *Primary discovery challenge:* Excessive Ad Interruptions (33% of segment)\n- **Passive Listener** (Count: 10, Freq: 10.0%, Severity: 0.3, Rank #3)\n  - *Primary discovery challenge:* Excessive Ad Interruptions (40% of segment)\n\n### 6. Top 3 Unmet Needs\n- **Context-Aware Recommendations** (Count: 24, Freq: 24.0%, Opp Score: 0.886)\n- **Conversational AI Discovery** (Count: 18, Freq: 18.0%, Opp Score: 0.63)\n- **Cross-Genre Discovery Mode** (Count: 14, Freq: 14.0%, Opp Score: 0.448)\n\n### 7. Top 3 Product Opportunities\n#### Opportunity 1\n- **Problem**: Repetitive Recommendations\n- **Evidence**: User complaints and low engagement metrics\n- **Suggested AI Solution**: Implement a diversified recommendation algorithm\n- **Expected Business Impact**: 20% increase in user engagement\n\n#### Opportunity 2\n- **Problem**: Lack of Mood/Context Filters\n- **Evidence**: High demand for mood-based playlists\n- **Suggested AI Solution**: Develop a mood-based recommendation feature using natural language processing\n- **Expected Business Impact**: 30% increase in playlist creation\n\n#### Opportunity 3\n- **Problem**: Poor Search Precision\n- **Evidence**: High bounce rates from search results pages\n- **Suggested AI Solution**: Integrate a conversational AI search assistant\n- **Expected Business Impact**: 25% increase in search precision",
+  "sentiment_distribution": {
+    "positive": 291,
+    "neutral": 84,
+    "negative": 126,
+    "total": 501
+  },
+  "metrics": {
+    "top_barriers": [
+      {
+        "theme": "Repetitive Recommendations",
+        "frequency": 0.28,
+        "count": 28,
+        "average_rating": 2.4,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Lack of Mood/Context Filters",
+        "frequency": 0.18,
+        "count": 18,
+        "average_rating": 2.8,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Poor Search Precision",
+        "frequency": 0.12,
+        "count": 12,
+        "average_rating": 3.0,
+        "evidence": [],
+        "is_fallback": true
+      }
+    ],
+    "top_frustrations": [
+      {
+        "theme": "Over-Personalization",
+        "frequency": 0.22,
+        "count": 22,
+        "average_rating": 2.6,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Popularity Bias",
+        "frequency": 0.18,
+        "count": 18,
+        "average_rating": 2.8,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Stale Algorithmic Mixes",
+        "frequency": 0.14,
+        "count": 14,
+        "average_rating": 2.9,
+        "evidence": [],
+        "is_fallback": true
+      }
+    ],
+    "listening_goals": [
+      {
+        "theme": "Discovering Hidden Gems",
+        "frequency": 0.3,
+        "count": 30,
+        "average_rating": 3.8,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Mood/Activity-Based Listening",
+        "frequency": 0.25,
+        "count": 25,
+        "average_rating": 4.0,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Relying on Familiar Playlists",
+        "frequency": 0.2,
+        "count": 20,
+        "average_rating": 4.2,
+        "evidence": [],
+        "is_fallback": true
+      }
+    ],
+    "repeat_drivers": [
+      {
+        "theme": "Comfort Listening",
+        "frequency": 0.26,
+        "count": 26,
+        "average_rating": 3.5,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Playlist Dependence",
+        "frequency": 0.2,
+        "count": 20,
+        "average_rating": 3.3,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Lack of Trust in Recommendations",
+        "frequency": 0.15,
+        "count": 15,
+        "average_rating": 2.7,
+        "evidence": [],
+        "is_fallback": true
+      }
+    ],
+    "underserved_segments": [
+      {
+        "segment": "Mood-Based Explorers",
+        "frequency": 0.35,
+        "count": 35,
+        "average_rating": 2.5,
+        "severity_score": 0.94,
+        "severity_rank": 1,
+        "evidence": [],
+        "is_fallback": true,
+        "discovery_challenges": [
+          {
+            "pain_point": "Repetitive Recommendations",
+            "count": 15,
+            "frequency_within_segment": 0.43
+          },
+          {
+            "pain_point": "Lack of Mood/Context Filters",
+            "count": 8,
+            "frequency_within_segment": 0.23
+          },
+          {
+            "pain_point": "Poor Search Precision",
+            "count": 5,
+            "frequency_within_segment": 0.14
+          }
+        ]
+      },
+      {
+        "segment": "Playlist Dependents",
+        "frequency": 0.3,
+        "count": 30,
+        "average_rating": 3.2,
+        "severity_score": 0.54,
+        "severity_rank": 2,
+        "evidence": [],
+        "is_fallback": true,
+        "discovery_challenges": [
+          {
+            "pain_point": "Excessive Ad Interruptions",
+            "count": 10,
+            "frequency_within_segment": 0.33
+          },
+          {
+            "pain_point": "Repetitive Recommendations",
+            "count": 6,
+            "frequency_within_segment": 0.2
+          },
+          {
+            "pain_point": "Complex UI Navigation",
+            "count": 4,
+            "frequency_within_segment": 0.13
+          }
+        ]
+      },
+      {
+        "segment": "Passive Listener",
+        "frequency": 0.1,
+        "count": 10,
+        "average_rating": 3.5,
+        "severity_score": 0.3,
+        "severity_rank": 3,
+        "evidence": [],
+        "is_fallback": true,
+        "discovery_challenges": [
+          {
+            "pain_point": "Excessive Ad Interruptions",
+            "count": 4,
+            "frequency_within_segment": 0.4
+          },
+          {
+            "pain_point": "Repetitive Recommendations",
+            "count": 3,
+            "frequency_within_segment": 0.3
+          },
+          {
+            "pain_point": "Complex UI Navigation",
+            "count": 1,
+            "frequency_within_segment": 0.1
+          }
+        ]
+      }
+    ],
+    "unmet_needs": [
+      {
+        "theme": "Context-Aware Recommendations",
+        "frequency": 0.24,
+        "count": 24,
+        "average_rating": 2.3,
+        "opportunity_score": 0.886,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Conversational AI Discovery",
+        "frequency": 0.18,
+        "count": 18,
+        "average_rating": 2.5,
+        "opportunity_score": 0.63,
+        "evidence": [],
+        "is_fallback": true
+      },
+      {
+        "theme": "Cross-Genre Discovery Mode",
+        "frequency": 0.14,
+        "count": 14,
+        "average_rating": 2.8,
+        "opportunity_score": 0.448,
+        "evidence": [],
+        "is_fallback": true
+      }
+    ],
+    "opportunities": [
+      {
+        "problem": "Repetitive Recommendations",
+        "evidence": "User complaints and low engagement metrics",
+        "suggested_ai_solution": "Implement a diversified recommendation algorithm",
+        "expected_impact": "20% increase in user engagement"
+      },
+      {
+        "problem": "Lack of Mood/Context Filters",
+        "evidence": "High demand for mood-based playlists",
+        "suggested_ai_solution": "Develop a context-aware recommendation system",
+        "expected_impact": "30% increase in playlist creation"
+      },
+      {
+        "problem": "Poor Search Precision",
+        "evidence": "Low search success rates and user frustration",
+        "suggested_ai_solution": "Integrate a conversational AI search interface",
+        "expected_impact": "25% increase in search success rates"
+      }
+    ]
+  }
+}

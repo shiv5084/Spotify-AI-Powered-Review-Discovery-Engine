@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Spotify keeps recommending the same artists over and over. I want to find new songs.",
+    "expected_sentiment": "negative",
+    "expected_segment": "New Music Seekers",
+    "has_pain_point": true
+  },
+  {
+    "text": "Great app! I love curating and sharing playlists with my friends.",
+    "expected_sentiment": "positive",
+    "expected_segment": "New Music Seekers",
+    "has_pain_point": false
+  },
+  {
+    "text": "I just want background focus music while cooking. The radio stations are fine.",
+    "expected_sentiment": "neutral",
+    "expected_segment": "Passive Listener",
+    "has_pain_point": false
+  },
+  {
+    "text": "The recommendation engine is terrible. I only get popular top 40 hits and popularity bias.",
+    "expected_sentiment": "negative",
+    "expected_segment": "New Music Seekers",
+    "has_pain_point": true
+  },
+  {
+    "text": "I listen to Spotify every day for 8 hours. The custom shortcuts and API integration are perfect.",
+    "expected_sentiment": "positive",
+    "expected_segment": "Genre Hoppers",
+    "has_pain_point": false
+  }
+]
