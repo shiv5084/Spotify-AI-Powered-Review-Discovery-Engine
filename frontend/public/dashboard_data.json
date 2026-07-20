@@ -1,33 +1,44 @@
 {
-  "week_ending": "2026-07-13",
-  "pulse_note_text": "# Spotify — Weekly Product Review Pulse\n## AI-Powered Executive Summary\n\nThis week's review pulse analyzes customer feedback across multiple public channels, identifying critical barriers to discovery and recommendation friction points. All metrics are computed locally from Phase 2 classifications.\n\n### 1. Top 3 Discovery Barriers\n- **Excessive Ad Interruptions** (Count: 3, Freq: 0.6%, Avg Rating: 1.0) — *\"Trustpilot review by Lynn King: Spotify …\"*\n- **Complex UI Navigation** (Count: 2, Freq: 0.4%, Avg Rating: 2.5)\n- **Repetitive Recommendations** (Count: 1, Freq: 0.2%, Avg Rating: 1.0)\n\n### 2. Top 3 Recommendation Frustrations\n- **Popularity Bias** (Count: 6, Freq: 1.2%, Sentiment Score: -1.0) — *\"Trustpilot review by Nerijus: . You guys…\"*\n- **Stale Algorithmic Mixes** (Count: 1, Freq: 0.2%, Sentiment Score: -1.0)\n- **Over-Personalization** (Count: 22, Freq: 22.0%, Sentiment Score: N/A)\n\n### 3. Top 3 Listening Goals\n- **Mood/Activity-Based Listening** (Count: 4, Freq: 0.8%, Avg Rating: 2.5) — *\"Post by [USER_HANDLE]: Playlist with hea…\"*\n- **Exploring New Genres** (Count: 3, Freq: 0.6%, Avg Rating: N/A)\n- **Discovering Hidden Gems** (Count: 1, Freq: 0.2%, Avg Rating: N/A)\n\n### 4. Top 3 Repeat-Listening Drivers\n- **Comfort Listening** (Count: 1, Freq: 0.2%, Avg Rating: N/A) — *\"Post by [USER_HANDLE]: Made this spotify…\"*\n- **Playlist Dependence** (Count: 20, Freq: 20.0%, Avg Rating: 3.3)\n- **Lack of Trust in Recommendations** (Count: 15, Freq: 15.0%, Avg Rating: 2.7)\n\n### 5. Top 3 Underserved User Segments\n- **Playlist Dependents** (Count: 3, Freq: 0.6%, Severity: 1.0, Rank #1) — *\"Post by [USER_HANDLE]: Made this spotify…\"*\n  - *Primary discovery challenge:* Complex UI Navigation (33% of segment)\n- **New Music Seekers** (Count: 5, Freq: 1.0%, Severity: 0.6, Rank #2)\n  - *Primary discovery challenge:* Lack of Mood/Context Filters (40% of segment)\n- **Mood-Based Explorers** (Count: 5, Freq: 1.0%, Severity: 0.5, Rank #3)\n  - *Primary discovery challenge:* Poor Search Precision (20% of segment)\n\n### 6. Top 3 Unmet Needs\n- **Conversational AI Discovery** (Count: 2, Freq: 0.4%, Opp Score: 0.02) — *\"Community Idea: Mark / Disable AI Genera…\"*\n- **Smart Playlist Refresh** (Count: 1, Freq: 0.2%, Opp Score: 0.012)\n- **Context-Aware Recommendations** (Count: 1, Freq: 0.2%, Opp Score: 0.008)\n\n### 7. Top 3 Product Opportunities\n#### Opportunity 1\n- **Problem**: Excessive Ad Interruptions\n- **Evidence**: User complaints and low engagement during ad breaks\n- **Suggested AI Solution**: AI-powered ad scheduling and personalized ad experiences\n- **Expected Business Impact**: 20% increase in user engagement and 15% increase in ad revenue\n\n#### Opportunity 2\n- **Problem**: Repetitive Recommendations\n- **Evidence**: User feedback and low discovery rates\n- **Suggested AI Solution**: AI-driven music recommendation diversification and discovery features\n- **Expected Business Impact**: 30% increase in music discovery and 25% increase in user retention\n\n#### Opportunity 3\n- **Problem**: Complex UI Navigation\n- **Evidence**: User frustration and high bounce rates\n- **Suggested AI Solution**: AI-powered UI personalization and simplification\n- **Expected Business Impact**: 25% decrease in bounce rates and 20% increase in user satisfaction",
+  "week_ending": "2026-07-20",
+  "pulse_note_text": "# Spotify — Weekly Product Review Pulse\n## AI-Powered Executive Summary\n\nThis week's review pulse analyzes customer feedback across multiple public channels, identifying critical barriers to discovery and recommendation friction points. All metrics are computed locally from Phase 2 classifications.\n\n### 1. Top 3 Discovery Barriers\n- **Excessive Ad Interruptions** (Count: 20, Freq: 4.0%, Avg Rating: 1.0) — *\"Trustpilot review by Lynn King: Spotify …\"*\n- **Complex UI Navigation** (Count: 7, Freq: 1.4%, Avg Rating: 1.0)\n- **Poor Search Precision** (Count: 3, Freq: 0.6%, Avg Rating: 1.0)\n\n### 2. Top 3 Recommendation Frustrations\n- **Popularity Bias** (Count: 6, Freq: 1.2%, Sentiment Score: -1.0) — *\"Trustpilot review by Nerijus: . You guys…\"*\n- **Podcast/Audiobook Clutter** (Count: 1, Freq: 0.2%, Sentiment Score: -1.0)\n- **Stale Algorithmic Mixes** (Count: 1, Freq: 0.2%, Sentiment Score: -1.0)\n\n### 3. Top 3 Listening Goals\n- **Mood/Activity-Based Listening** (Count: 8, Freq: 1.6%, Avg Rating: 1.0) — *\"Post by [USER_HANDLE]: I need songs that…\"*\n- **Discovering Hidden Gems** (Count: 1, Freq: 0.2%, Avg Rating: N/A)\n- **Relying on Familiar Playlists** (Count: 1, Freq: 0.2%, Avg Rating: 1.0)\n\n### 4. Top 3 Repeat-Listening Drivers\n- **Comfort Listening** (Count: 1, Freq: 0.2%, Avg Rating: N/A) — *\"Tweet by [USER_HANDLE]: You're about to …\"*\n- **Mood Mismatch** (Count: 1, Freq: 0.2%, Avg Rating: 1.0)\n- **Playlist Dependence** (Count: 20, Freq: 20.0%, Avg Rating: 3.3)\n\n### 5. Top 3 Underserved User Segments\n- **Playlist Dependents** (Count: 2, Freq: 0.4%, Severity: 4.0, Rank #1) — *\"Review by Jen: Better off using the desk…\"*\n  - *Primary discovery challenge:* Complex UI Navigation (50% of segment)\n- **Mood-Based Explorers** (Count: 8, Freq: 1.6%, Severity: 1.5, Rank #2)\n  - *Primary discovery challenge:* Excessive Ad Interruptions (12% of segment)\n- **Passive Listener** (Count: 490, Freq: 98.0%, Severity: 0.33, Rank #3)\n  - *Primary discovery challenge:* Excessive Ad Interruptions (4% of segment)\n\n### 6. Top 3 Unmet Needs\n- **Smart Playlist Refresh** (Count: 3, Freq: 0.6%, Opp Score: 0.03) — *\"Trustpilot review by Eivory Tavares: Its…\"*\n- **Conversational AI Discovery** (Count: 1, Freq: 0.2%, Opp Score: 0.012)\n- **Context-Aware Recommendations** (Count: 1, Freq: 0.2%, Opp Score: 0.01)\n\n### 7. Top 3 Product Opportunities\n#### Opportunity 1\n- **Problem**: Excessive Ad Interruptions\n- **Evidence**: User complaints and low engagement during ad breaks\n- **Suggested AI Solution**: AI-powered ad scheduling and personalized ad experiences\n- **Expected Business Impact**: 20% increase in user engagement and 15% increase in ad revenue\n\n#### Opportunity 2\n- **Problem**: Poor Search Precision\n- **Evidence**: High bounce rates and low click-through rates for search results\n- **Suggested AI Solution**: Natural Language Processing (NLP) based search algorithm\n- **Expected Business Impact**: 30% increase in search click-through rates and 25% increase in discovery of new content\n\n#### Opportunity 3\n- **Problem**: Stale Algorithmic Mixes\n- **Evidence**: User feedback and low engagement with recommended content\n- **Suggested AI Solution**: AI-driven music and podcast recommendation engine with real-time user feedback incorporation\n- **Expected Business Impact**: 25% increase in user engagement with recommended content and 20% increase in overall user satisfaction",
   "sentiment_distribution": {
-    "positive": 306,
-    "neutral": 73,
-    "negative": 121,
+    "positive": 308,
+    "neutral": 64,
+    "negative": 128,
     "total": 500
   },
   "metrics": {
     "top_barriers": [
       {
         "theme": "Excessive Ad Interruptions",
-        "frequency": 0.006,
-        "count": 3,
+        "frequency": 0.04,
+        "count": 20,
         "average_rating": 1.0,
         "evidence": [
           "Trustpilot review by Lynn King: Spotify is the worse music app ever. Spotify is the worse music app ever they give you 5+ ads for listening to 2 songs it's not funny at all . Also the 6 skips per hour and you can only pick songs yourself limited amount of times is so freaking stupid. I wish Spotify could see this and go back to the way it was before because the way it is now is horrible. I'm actually thinking of switching to YouTube music",
-          "Review by Luciorocks: Too many ads Atleast one is fine buying premium was like scraping the bottom of the barrel please get rid of ads like crazy"
+          "Review by Poloju Uma: Is it to play music or to listen ads all the time"
         ],
         "is_fallback": false
       },
       {
         "theme": "Complex UI Navigation",
-        "frequency": 0.004,
-        "count": 2,
-        "average_rating": 2.5,
+        "frequency": 0.014,
+        "count": 7,
+        "average_rating": 1.0,
         "evidence": [
-          "Trustpilot review by Hensley Grothues: Spotify makes me mad. Spotify is awful I cant even choose what song I play anymore and the ads are longer than the songs! It only allows me six skips and wont let me sign into my family plan GO TO APPLE MUSIC",
-          "Review by Leighguy: Hard to figure out how to  load playlist at first"
+          "Trustpilot review by Makenna: fffuuuckk Spotify bro. This app is the most ridiculous thing I have ever dealt with. It constantly randomly likes to log me out and then when I try to log back in it does not cooperate with me what-so-ever. This app is more annoying, frustrating, and idiotic than my husbands parents. I hate everything about it. Im so traumatized I felt the need to write this review.",
+          "Trustpilot review by jen lean: so shit i cant even play my music. so shit i cant even play my music, its super slow on my phone and it has nothing good to offer when not paying, worst music app ever"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Poor Search Precision",
+        "frequency": 0.006,
+        "count": 3,
+        "average_rating": 1.0,
+        "evidence": [
+          "Trustpilot review by Alfons Andersson: Kinda aids when you go the app and the. Kinda aids when you go the app and the show you a playlist and they show you a completly different list way away from ur music liking? idk, even if you pay the app feels like a complete malware at this point with all the pop ups distubing you from playing the music you acutally want to listen to.",
+          "Review by Zoe Arwen Magtibay: it's good but for some reason lately every time I press the song I wanna play. It plays a different song from the artist, idk if its just me."
         ],
         "is_fallback": false
       },
@@ -37,17 +48,17 @@
         "count": 1,
         "average_rating": 1.0,
         "evidence": [
-          "Review by Havanna's dada: Music just runs on repeat"
+          "Review by JAYASURYA.R: who are you choosing what i am hearing songs( new update related songs only playing )"
         ],
         "is_fallback": false
       },
       {
-        "theme": "Poor Search Precision",
+        "theme": "Lack of Mood/Context Filters",
         "frequency": 0.002,
         "count": 1,
         "average_rating": 1.0,
         "evidence": [
-          "Trustpilot review by Alfons Andersson: Kinda aids when you go the app and the. Kinda aids when you go the app and the show you a playlist and they show you a completly different list way away from ur music liking? idk, even if you pay the app feels like a complete malware at this point with all the pop ups distubing you from playing the music you acutally want to listen to."
+          "Review by Duke Dick: I no longer want to use Spotify as it has no filter to exclude \"AI music\" from the search results or app-generated lists."
         ],
         "is_fallback": false
       }
@@ -57,10 +68,20 @@
         "theme": "Popularity Bias",
         "frequency": 0.012,
         "count": 6,
-        "average_rating": 1.5,
+        "average_rating": 1.17,
         "evidence": [
           "Trustpilot review by Nerijus: . You guys should stop so agresivly put kacap language music in my listenings shuffle. I never listened russian language music, never liked it, but somehow spotify want me to listen this trash.",
-          "Trustpilot review by Hensley Grothues: Spotify makes me mad. Spotify is awful I cant even choose what song I play anymore and the ads are longer than the songs! It only allows me six skips and wont let me sign into my family plan GO TO APPLE MUSIC"
+          "Trustpilot review by Eivory Tavares: Its not ok they try to make me get. Its not ok they try to make me get premium stop shuffling all my songs which is absurdly annoying and to get premium to loop my songs. The songs are great but Spotify needs to change their ways"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Podcast/Audiobook Clutter",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 1.0,
+        "evidence": [
+          "Review by Paul: New features: 1) Ads inbetween and inside non-spotify affiliated Podcasts even with the premium plan! 2) Constant Advertisment by Spotify for the Audiobook plan (limited hrs/ month!). 3) A terribly slow UX: App can take up to a minute to load a page/content, long press menus are often dependent on a server request and also load for eternity. Home often displays podcasts to have NEW episodes (even after reloading home), but then there are only older episodes some with wrong completion status."
         ],
         "is_fallback": false
       },
@@ -70,39 +91,20 @@
         "count": 1,
         "average_rating": 1.0,
         "evidence": [
-          "Review by Havanna's dada: Music just runs on repeat"
+          "Review by Nansi Patel: the new version is worst this app Don't even let me play the song I like to hear at the movement I can't even skip the songs or can't replay the part of song I like. It just want me to buy the premium no more the owner is really very greedy also the song come in queue in shuffle is very irritating when I play any romantic vibe songs after the song complete it goes to sad song very disturbing is says smart shuffle but is the dumbest shuffle of the who application industry "
         ],
         "is_fallback": false
-      },
-      {
-        "theme": "Over-Personalization",
-        "frequency": 0.22,
-        "count": 22,
-        "average_rating": 2.6,
-        "evidence": [],
-        "is_fallback": true
       }
     ],
     "listening_goals": [
       {
         "theme": "Mood/Activity-Based Listening",
-        "frequency": 0.008,
-        "count": 4,
-        "average_rating": 2.5,
+        "frequency": 0.016,
+        "count": 8,
+        "average_rating": 1.0,
         "evidence": [
-          "Post by [USER_HANDLE]: Playlist with heartbreak ballads. Going through it and need some big and powerful songs that match the intensity of my heartbreak. Thinking songs like Purple Rain and Nothing Compares to U (a bit cheesy is clearly okay). Anyone have any playlists that fit the vibe? submitted by    [USER_HANDLE]   [link] [comments]",
-          "Post by [USER_HANDLE]: looking for playlist for this situation im in. yall pulled through for me last time so lets see what you got this time  looking for a playlist for you both like each other and know it but dont have to courage to confess does anyone know a playlist like this,have one or made one? submitted by    [USER_HANDLE]   [link] [comments]"
-        ],
-        "is_fallback": false
-      },
-      {
-        "theme": "Exploring New Genres",
-        "frequency": 0.006,
-        "count": 3,
-        "average_rating": 0.0,
-        "evidence": [
-          "Post by [USER_HANDLE]: maximalist, chaotic, genre-fluid adult swim-esque albums. im looking for albums that mark off these boxes:  eclectic maximalism controlled chaos/unpredictable feels like adult swim in music form experimental & accessible at the same time  something like Speakerboxxx / The Love Below, Leak 04-13 (Bait Ones), Broke With Expensive Taste, Arular for example. doesnt necessarily have to be alternative r&b/hip hop, any genre really preferably niche/unpopular albums    submitted by    [USER_HANDLE]   [link] [comments]",
-          "Post by [USER_HANDLE]: Suggest new playlists for genX. I'm old and I'm stuck in a music rut. Listening to old stuff from the 90s and 2000s all the time. I need some new stuff! Can anyone suggest me some up to date playlists please? I'm a F53 My tastes (in the old stuff) I listen to a lot. Forgive me if my genre naming is archaic! EDM (mainly IDM), chilled house, uplifting ambient, trip hop, liquid drum and bass, a bit of reggae/ska. I'm not into rock, pop, cheesy commercial stuff. Help drag me up to date! submitted by    [USER_HANDLE]   [link] [comments]"
+          "Post by [USER_HANDLE]: I need songs that match the cold/icy vibe. - dont suggest songs that are TOO niche. - genre doesnt necessarily have to be rap but thats what I had in mind starting off. - MUST be cold/icy    submitted by    [USER_HANDLE]   [link] [comments]",
+          "Post by [USER_HANDLE]: ISO new songs. Im in search of songs for my is this real life playlist. This playlists consists of songs that make me feel like Im in a movie, living a dream, and pretty much just surreal over all. I love to listen to this playlist on a late night cruise or even just working on a hobby. submitted by    [USER_HANDLE]   [link] [comments]"
         ],
         "is_fallback": false
       },
@@ -112,7 +114,7 @@
         "count": 1,
         "average_rating": 0.0,
         "evidence": [
-          "Post by [USER_HANDLE]: looking for spotify moots!!. im looking for more spotify moots! i listen to almost everything but i LOVE indie rock. some of my favs are mitski, phoebe bridgers, fiona apple, the sundays, adrianne lenkerart pop too. i also love rock too! pearl jam, the cure, alice in the chains, i like alt rock like radiohead as well. i love finding new music to listen too so drops some recs. give me a follow if you want! id love to follow you back! TALK TO ME ABT MUSIC TOO i love it :) heres my spotify link: https://open.spotify.com/user/xl6ag7e6uv2b0dsqmqcb06l2l?si=AMUQACwQSraA6I4zOxgJWg&utm\\_source=copy-link    submitted by    [USER_HANDLE]   [link] [comments]"
+          "Tweet by [USER_HANDLE]:  Prompt of the Week   Try this Prompted Playlist and see what you get:  Make me a playlist of songs I forgot about for some reason but I still love."
         ],
         "is_fallback": false
       },
@@ -120,9 +122,9 @@
         "theme": "Relying on Familiar Playlists",
         "frequency": 0.002,
         "count": 1,
-        "average_rating": 3.0,
+        "average_rating": 1.0,
         "evidence": [
-          "Review by #good_vibes: I love Spotify , tho I wish there could be a few more songs for free , sense some of us cant do premium. Also , there are so many adds , like ever other song."
+          "Review by Jen: Better off using the desktop app if want to build playlists. The mobile version has a ton of limits for everything. Only 6 skips an hr, you can only pick a specific song to listen to so many times a day before you have to listen to the whole playlist or album, you can't adjust the randomizer unless you do it from the desktop either. The only thing the mobile app has that the desktop doesnt is the sleep timer. It also stops playing randomly which is inconvenient when you're trying to fall asleep."
         ],
         "is_fallback": false
       }
@@ -134,7 +136,17 @@
         "count": 1,
         "average_rating": 0.0,
         "evidence": [
-          "Post by [USER_HANDLE]: Made this spotify playlist it's metallica chill songs. Got bored of listening to the same Metallica chill songs all the time and I wanted something a little bit more so I made this happy listening. submitted by    [USER_HANDLE]   [link] [comments]"
+          "Tweet by [USER_HANDLE]: You're about to lose service. What's the first song you're hoping is waiting in your Offline Backup playlist?"
+        ],
+        "is_fallback": false
+      },
+      {
+        "theme": "Mood Mismatch",
+        "frequency": 0.002,
+        "count": 1,
+        "average_rating": 1.0,
+        "evidence": [
+          "Review by Nansi Patel: the new version is worst this app Don't even let me play the song I like to hear at the movement I can't even skip the songs or can't replay the part of song I like. It just want me to buy the premium no more the owner is really very greedy also the song come in queue in shuffle is very irritating when I play any romantic vibe songs after the song complete it goes to sad song very disturbing is says smart shuffle but is the dumbest shuffle of the who application industry "
         ],
         "is_fallback": false
       },
@@ -145,34 +157,26 @@
         "average_rating": 3.3,
         "evidence": [],
         "is_fallback": true
-      },
-      {
-        "theme": "Lack of Trust in Recommendations",
-        "frequency": 0.15,
-        "count": 15,
-        "average_rating": 2.7,
-        "evidence": [],
-        "is_fallback": true
       }
     ],
     "underserved_segments": [
       {
         "segment": "Playlist Dependents",
-        "frequency": 0.006,
-        "count": 3,
-        "average_rating": 2.0,
-        "severity_score": 1.0,
+        "frequency": 0.004,
+        "count": 2,
+        "average_rating": 1.0,
+        "severity_score": 4.0,
         "severity_rank": 1,
         "evidence": [
-          "Post by [USER_HANDLE]: Made this spotify playlist it's metallica chill songs. Got bored of listening to the same Metallica chill songs all the time and I wanted something a little bit more so I made this happy listening. submitted by    [USER_HANDLE]   [link] [comments]",
-          "Trustpilot review by Hensley Grothues: Spotify makes me mad. Spotify is awful I cant even choose what song I play anymore and the ads are longer than the songs! It only allows me six skips and wont let me sign into my family plan GO TO APPLE MUSIC"
+          "Review by Jen: Better off using the desktop app if want to build playlists. The mobile version has a ton of limits for everything. Only 6 skips an hr, you can only pick a specific song to listen to so many times a day before you have to listen to the whole playlist or album, you can't adjust the randomizer unless you do it from the desktop either. The only thing the mobile app has that the desktop doesnt is the sleep timer. It also stops playing randomly which is inconvenient when you're trying to fall asleep.",
+          "Review by Omar: bring \"find in playlist\" back when adding a song to a Playlist."
         ],
         "is_fallback": false,
         "discovery_challenges": [
           {
             "pain_point": "Complex UI Navigation",
             "count": 1,
-            "frequency_within_segment": 0.3333
+            "frequency_within_segment": 0.5
           },
           {
             "pain_point": "Excessive Ad Interruptions",
@@ -187,117 +191,87 @@
         ]
       },
       {
-        "segment": "New Music Seekers",
-        "frequency": 0.01,
-        "count": 5,
-        "average_rating": 2.0,
-        "severity_score": 0.6,
+        "segment": "Mood-Based Explorers",
+        "frequency": 0.016,
+        "count": 8,
+        "average_rating": 1.0,
+        "severity_score": 1.5,
         "severity_rank": 2,
         "evidence": [
-          "Post by [USER_HANDLE]: maximalist, chaotic, genre-fluid adult swim-esque albums. im looking for albums that mark off these boxes:  eclectic maximalism controlled chaos/unpredictable feels like adult swim in music form experimental & accessible at the same time  something like Speakerboxxx / The Love Below, Leak 04-13 (Bait Ones), Broke With Expensive Taste, Arular for example. doesnt necessarily have to be alternative r&b/hip hop, any genre really preferably niche/unpopular albums    submitted by    [USER_HANDLE]   [link] [comments]",
-          "Post by [USER_HANDLE]: Suggest new playlists for genX. I'm old and I'm stuck in a music rut. Listening to old stuff from the 90s and 2000s all the time. I need some new stuff! Can anyone suggest me some up to date playlists please? I'm a F53 My tastes (in the old stuff) I listen to a lot. Forgive me if my genre naming is archaic! EDM (mainly IDM), chilled house, uplifting ambient, trip hop, liquid drum and bass, a bit of reggae/ska. I'm not into rock, pop, cheesy commercial stuff. Help drag me up to date! submitted by    [USER_HANDLE]   [link] [comments]"
-        ],
-        "is_fallback": false,
-        "discovery_challenges": [
-          {
-            "pain_point": "Lack of Mood/Context Filters",
-            "count": 6,
-            "frequency_within_segment": 0.4
-          },
-          {
-            "pain_point": "Complex UI Navigation",
-            "count": 4,
-            "frequency_within_segment": 0.27
-          },
-          {
-            "pain_point": "Poor Search Precision",
-            "count": 3,
-            "frequency_within_segment": 0.2
-          }
-        ]
-      },
-      {
-        "segment": "Mood-Based Explorers",
-        "frequency": 0.01,
-        "count": 5,
-        "average_rating": 2.5,
-        "severity_score": 0.5,
-        "severity_rank": 3,
-        "evidence": [
-          "Post by [USER_HANDLE]: looking for spotify moots!!. im looking for more spotify moots! i listen to almost everything but i LOVE indie rock. some of my favs are mitski, phoebe bridgers, fiona apple, the sundays, adrianne lenkerart pop too. i also love rock too! pearl jam, the cure, alice in the chains, i like alt rock like radiohead as well. i love finding new music to listen too so drops some recs. give me a follow if you want! id love to follow you back! TALK TO ME ABT MUSIC TOO i love it :) heres my spotify link: https://open.spotify.com/user/xl6ag7e6uv2b0dsqmqcb06l2l?si=AMUQACwQSraA6I4zOxgJWg&utm\\_source=copy-link    submitted by    [USER_HANDLE]   [link] [comments]",
-          "Post by [USER_HANDLE]: Playlist with heartbreak ballads. Going through it and need some big and powerful songs that match the intensity of my heartbreak. Thinking songs like Purple Rain and Nothing Compares to U (a bit cheesy is clearly okay). Anyone have any playlists that fit the vibe? submitted by    [USER_HANDLE]   [link] [comments]"
-        ],
-        "is_fallback": false,
-        "discovery_challenges": [
-          {
-            "pain_point": "Poor Search Precision",
-            "count": 1,
-            "frequency_within_segment": 0.2
-          },
-          {
-            "pain_point": "Repetitive Recommendations",
-            "count": 15,
-            "frequency_within_segment": 0.43
-          },
-          {
-            "pain_point": "Lack of Mood/Context Filters",
-            "count": 8,
-            "frequency_within_segment": 0.23
-          }
-        ]
-      },
-      {
-        "segment": "Passive Listener",
-        "frequency": 0.974,
-        "count": 487,
-        "average_rating": 3.84,
-        "severity_score": 0.25,
-        "severity_rank": 4,
-        "evidence": [
-          "Post by [USER_HANDLE]: Soul Summer. Good for summer parties, night drives or chilling with that special someone. submitted by    [USER_HANDLE]   [link] [comments]",
-          "Post by [USER_HANDLE]: My favorite country songs ever.. submitted by    [USER_HANDLE]   [link] [comments]"
+          "Post by [USER_HANDLE]: I need songs that match the cold/icy vibe. - dont suggest songs that are TOO niche. - genre doesnt necessarily have to be rap but thats what I had in mind starting off. - MUST be cold/icy    submitted by    [USER_HANDLE]   [link] [comments]",
+          "Post by [USER_HANDLE]: ISO new songs. Im in search of songs for my is this real life playlist. This playlists consists of songs that make me feel like Im in a movie, living a dream, and pretty much just surreal over all. I love to listen to this playlist on a late night cruise or even just working on a hobby. submitted by    [USER_HANDLE]   [link] [comments]"
         ],
         "is_fallback": false,
         "discovery_challenges": [
           {
             "pain_point": "Excessive Ad Interruptions",
-            "count": 3,
-            "frequency_within_segment": 0.0062
+            "count": 1,
+            "frequency_within_segment": 0.125
+          },
+          {
+            "pain_point": "Poor Search Precision",
+            "count": 1,
+            "frequency_within_segment": 0.125
           },
           {
             "pain_point": "Repetitive Recommendations",
-            "count": 1,
-            "frequency_within_segment": 0.0021
+            "count": 15,
+            "frequency_within_segment": 0.43
+          }
+        ]
+      },
+      {
+        "segment": "Passive Listener",
+        "frequency": 0.98,
+        "count": 490,
+        "average_rating": 3.74,
+        "severity_score": 0.33,
+        "severity_rank": 3,
+        "evidence": [
+          "Post by [USER_HANDLE]: The SoundCloud Rap Era. Cover created by me ! submitted by    [USER_HANDLE]   [link] [comments]",
+          "Post by [USER_HANDLE]: Through The Wire.. Thanks to the Spotify user community for helping me finish this contemporary jazz and jazz fusion playlist. Your suggestions, recommendations and ideation helped out a lot. 2hrs and 9 minutes, for Omar    submitted by    [USER_HANDLE]   [link] [comments]"
+        ],
+        "is_fallback": false,
+        "discovery_challenges": [
+          {
+            "pain_point": "Excessive Ad Interruptions",
+            "count": 19,
+            "frequency_within_segment": 0.0388
           },
           {
             "pain_point": "Complex UI Navigation",
-            "count": 1,
-            "frequency_within_segment": 0.0021
+            "count": 6,
+            "frequency_within_segment": 0.0122
+          },
+          {
+            "pain_point": "Poor Search Precision",
+            "count": 2,
+            "frequency_within_segment": 0.0041
           }
         ]
       }
     ],
     "unmet_needs": [
       {
-        "theme": "Conversational AI Discovery",
-        "frequency": 0.004,
-        "count": 2,
+        "theme": "Smart Playlist Refresh",
+        "frequency": 0.006,
+        "count": 3,
         "average_rating": 1.0,
-        "opportunity_score": 0.02,
+        "opportunity_score": 0.03,
         "evidence": [
-          "Community Idea: Mark / Disable AI Generated Songs.",
-          "Trustpilot review by jean: AI music???. First, they should better compensate the artists who devote so much time to creating their music. Second, they should ban the fake AI-generated artists found on their platform. AI-generated music generates no revenue for artists, yet you pay to listen to it. I wouldn't be surprised if Spotify were inventing these fake artists to fill our playlists."
+          "Trustpilot review by Eivory Tavares: Its not ok they try to make me get. Its not ok they try to make me get premium stop shuffling all my songs which is absurdly annoying and to get premium to loop my songs. The songs are great but Spotify needs to change their ways",
+          "Review by Omar: bring \"find in playlist\" back when adding a song to a Playlist."
         ],
         "is_fallback": false
       },
       {
-        "theme": "Smart Playlist Refresh",
+        "theme": "Conversational AI Discovery",
         "frequency": 0.002,
         "count": 1,
         "average_rating": 0.0,
         "opportunity_score": 0.012,
         "evidence": [
-          "Community Idea: Continue playlist after playing a searched song."
+          "Tweet by [USER_HANDLE]:  Prompt of the Week   Try this Prompted Playlist and see what you get:  Make me a playlist of songs I forgot about for some reason but I still love."
         ],
         "is_fallback": false
       },
@@ -305,10 +279,10 @@
         "theme": "Context-Aware Recommendations",
         "frequency": 0.002,
         "count": 1,
-        "average_rating": 2.0,
-        "opportunity_score": 0.008,
+        "average_rating": 1.0,
+        "opportunity_score": 0.01,
         "evidence": [
-          "Review by kray9ooo: The audiobook listening hours is a terrible user experience and should be reconsidered, being cut off from listening to your book and having to wait different periods of times, for example i have reached my listening hours limit months and have to wait 2 weeks, sometimes a week, others a few days, and even only a day. This is a very silly thing to have to put up with especially in the middle of the book that could maybe only need a few minutes of listening left, or mostly finished with other wise. Please reconsider maybe having a separate audiobook subscription or change the audiobook listening hours time limit, or even raise the price of normal subscription to cover the expenses. This has made my experience with Spotify more damaging and negative and would like to see a simpler resolve to this issue please, as i know many other users must feel the same way."
+          "Review by Nansi Patel: the new version is worst this app Don't even let me play the song I like to hear at the movement I can't even skip the songs or can't replay the part of song I like. It just want me to buy the premium no more the owner is really very greedy also the song come in queue in shuffle is very irritating when I play any romantic vibe songs after the song complete it goes to sad song very disturbing is says smart shuffle but is the dumbest shuffle of the who application industry "
         ],
         "is_fallback": false
       }
@@ -317,20 +291,20 @@
       {
         "problem": "Excessive Ad Interruptions",
         "evidence": "75% of free users report ad fatigue",
-        "suggested_ai_solution": "AI-driven ad scheduling and personalized ad experiences",
-        "expected_impact": "20% increase in user engagement and 15% increase in ad revenue"
+        "suggested_ai_solution": "AI-driven ad placement optimization",
+        "expected_impact": "20% increase in user engagement"
       },
       {
-        "problem": "Repetitive Recommendations",
-        "evidence": "60% of users report discovering the same songs repeatedly",
-        "suggested_ai_solution": "AI-powered music discovery with natural language processing and collaborative filtering",
-        "expected_impact": "30% increase in music discovery and 25% increase in user retention"
+        "problem": "Poor Search Precision",
+        "evidence": "40% of users report difficulty finding desired content",
+        "suggested_ai_solution": "Natural Language Processing (NLP) based search enhancement",
+        "expected_impact": "30% increase in search success rate"
       },
       {
-        "problem": "Complex UI Navigation",
-        "evidence": "40% of users report difficulty finding new music",
-        "suggested_ai_solution": "Conversational AI-powered music discovery and voice-controlled UI navigation",
-        "expected_impact": "25% increase in user satisfaction and 20% increase in premium subscriptions"
+        "problem": "Stale Algorithmic Mixes",
+        "evidence": "60% of users report discovering the same content repeatedly",
+        "suggested_ai_solution": "Deep Learning based personalized playlist refresh",
+        "expected_impact": "25% increase in user retention"
       }
     ]
   }
